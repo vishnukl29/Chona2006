@@ -81,7 +81,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developer
-Chonaboy zw
+
+https://github.com/Chonaboy/Chona2006
     
 
 
